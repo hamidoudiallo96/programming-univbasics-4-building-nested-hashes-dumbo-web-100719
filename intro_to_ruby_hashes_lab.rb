@@ -67,7 +67,9 @@ def monopoly_with_fourth_tier
 	    b_and_o_railroad:{},
 	    shortline_railroad:{}
 	   },
-	   reading_railroad: "$#{100}"
+	   reading_railroad:{
+	     mortgage_value: "$#{100}"
+	   }
 	  }
 	 }
 	 return monopoly
