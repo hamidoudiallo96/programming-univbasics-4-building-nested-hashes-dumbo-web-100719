@@ -35,7 +35,10 @@ def monopoly_with_third_tier
 	    four_piece_owned: ""
 	   },
 	   names:{
-	     
+	     first_name:"",
+	     second_name:"",
+	     third_name:"",
+	     fourth_name:""
 	   }
 	  }
 	 }
