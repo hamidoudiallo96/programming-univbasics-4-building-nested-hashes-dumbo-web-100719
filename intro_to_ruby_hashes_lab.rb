@@ -39,7 +39,8 @@ def monopoly_with_third_tier
 	     second_name:"",
 	     third_name:"",
 	     fourth_name:""
-	   }
+	   },
+	   reading_railroad:{}
 	  }
 	 }
   return monopoly
