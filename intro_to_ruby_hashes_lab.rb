@@ -72,7 +72,7 @@ def monopoly_with_fourth_tier
 	     "mortgage_value"=>"$400"
 	    },
 	    shortline:{
-	     "mortgage_value"=>"$300"
+	     "mortgage_value"=>"$800"
 	    }
 	   }
 	  }
